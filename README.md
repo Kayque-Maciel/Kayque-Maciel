@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C647" /> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=F230D2" /> 
   
  # Sejam bem-vindos(as) ao meu perfil 😁 
   
@@ -56,4 +56,4 @@
   
  </div> 
   
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C647&section=footer" />
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=F230D2&section=footer" />
