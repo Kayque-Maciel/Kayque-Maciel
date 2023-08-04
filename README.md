@@ -41,6 +41,9 @@
      <img align="center" alt="Java" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg>
    </div> 
    <img align="center" alt="Linux" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg>
+   <img align="center" alt="Linux" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg>
+      <img align="center" alt="Linux" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg>
+      <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
    </div> 
   </div> 
   
